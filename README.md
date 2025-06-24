@@ -16,3 +16,6 @@ This is an Excel-based interactive sales dashboard project I created.
 ## 📁 File Info
 - Format: Excel Workbook
 - Created with: Microsoft Excel
+![Dashboard Preview](Screenshot%202025-06-24%20133118.png)
+
+
